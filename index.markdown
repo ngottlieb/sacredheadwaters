@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: "Table of Contents"
 ---
 
-## What is Sacred Headwaters?
+### What is Sacred Headwaters?
 
 [Sacred Headwaters](https://sacredheadwaters.substack.com) is a bi-weekly newsletter that aims to guide a co-learning process about the existential issues and planetary limitations facing humanity and about how we can reorient civilization in a way that will enable us to thrive for centuries to come. Subscribe below if you haven't already:
 
