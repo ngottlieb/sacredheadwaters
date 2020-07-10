@@ -31,7 +31,7 @@ twitter_username: ngottliebphoto
 github_username: ngottlieb
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
