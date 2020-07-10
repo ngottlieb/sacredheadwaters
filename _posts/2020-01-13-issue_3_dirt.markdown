@@ -1,0 +1,36 @@
+---
+title: "Issue #3: Dirt"
+description: >-
+  Exploring the broad impacts of agriculture on planetary boundaries and the
+  opportunities to use food growth for regeneration.
+source_url: "https://sacredheadwaters.substack.com/p/sacred-headwaters-3-dirt"
+topics:
+  - "climate change"
+  - "regenerative agriculture"
+  - "soil degradation"
+book:
+  title: "Dirt"
+  author: "David Montgomery"
+  url: "https://www.dig2grow.com/"
+readings:
+  - url: "https://www.ecologyandsociety.org/vol22/iss4/art8/"
+    title: "Agriculture production as a major driver of the Earth system exceeding planetary boundaries"
+    time: "30 minutes"
+  - url: "https://www.theguardian.com/environment/2017/sep/12/third-of-earths-soil-acutely-degraded-due-to-agriculture-study"
+    title: "Third of Earth's soil is acutely degraded due to agriculture"
+    time: "5 minutes"
+  - url: "https://www.scientificamerican.com/article/only-60-years-of-farming-left-if-soil-degradation-continues/"
+    title: "Only 60 Years of Farming Left If Soil Degradation Continues"
+    time: "5 minutes"
+  - url: "https://www.scientificamerican.com/article/soil-depletion-aND-NUTRITION-LOSS/"
+    title: "Dirt Poor: Have Fruits and Vegetables Become Less Nutritious?"
+    time: "5 minutes"
+  - url: "https://wad.jrc.ec.europa.eu/"
+    title: "World Atlas of Desertification"
+    time: "10+ minutes"
+  - url: "https://terraton.indigoag.com/news/can-farmers-and-ranchers-pull-one-trillion-tons-of-carbon-dioxide-out-of-the-atmosphere"
+    title: "Can farmers and ranchers pull one trillion tons of carbon dioxide out of the atmosphere?"
+    time: "15 minutes"
+  - url: "https://www.unenvironment.org/resources/global-environment-outlook-6"
+    title: "UN Global Environment Outlook 6 (GEO-6)"
+---
