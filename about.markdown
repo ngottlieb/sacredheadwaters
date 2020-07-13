@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sacred Headwaters is a bi-weekly newsletter that aims to guide a co-learning process about the existential issues and planetary limitations facing humanity, and about how we can reorient civilization in a way that will enable us to thrive for centuries to come.
+[Sacred Headwaters](https://sacredheadwaters.substack.com) is a bi-weekly newsletter that aims to guide a co-learning process about the existential issues and planetary limitations facing humanity, and about how we can reorient civilization in a way that will enable us to thrive for centuries to come.
 
 The climate crisis is the foremost issue we’re facing, but as you’ll learn in the readings over the coming months, it’s just one of a number of issues with the way our current human civilization has integrated itself into the planetary system. Traditional western media outlets cover the climate crisis, but it tends to focus on alarmist headlines and gives a reductionist view of both the problems and the solutions. The goal of this newsletter is to provide a deeper understanding of the issues, what’s at stake, and how we might approach mitigating them, up to and including restructuring our civilization to live within the bounds of the earth system. Each newsletter will include an annotated list of articles — targeting one or so hours of reading every two weeks (it’s a bit closer to two this week) — and a book recommendation; feel free to bite off as much as you can chew. I hope these readings will help you understand and explore what a meaningful and sustainable life looks like and encourage discussion and dissemination of information about the ecological crises confronting humanity.
 
