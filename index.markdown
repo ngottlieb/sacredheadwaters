@@ -33,7 +33,9 @@ This table of contents lists the readings from each newsletter, but I'd highly r
   {% for reading in issue.readings %}
 - [{{reading.title}}]({{reading.url}}) {{reading.author}} ({{reading.time}})
   {% endfor %}
-- Book recommendation: [_{{issue.book.title}}_]({{issue.book.url}}), {{issue.book.author}}
+  {% if issue.book %}
+- **Book recommendation**: [_{{issue.book.title}}_]({{issue.book.url}}), {{issue.book.author}}
+{% endif %}
 </details>
 
 {% endfor %}
