@@ -19,7 +19,7 @@ readings:
     author: "Geoff Dembicki"
   - url: "https://magazine.jhsph.edu/2018/gentrification-climate-changes-latest-threat"
     title: "Gentrification: Climate Change's Latest Threat"
-    time: "10 hours"
+    time: "10 minutes"
   - url: "https://jacobinmag.com/2019/02/green-new-deal-housing-ocasio-cortez-climate"
     title: "A Green New Deal for Housing"
     time: "20 minutes"
