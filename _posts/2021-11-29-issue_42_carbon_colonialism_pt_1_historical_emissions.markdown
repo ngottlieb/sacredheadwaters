@@ -16,4 +16,8 @@ readings:
     title: "Climate Reparations"
     time: "40 minutes"
     author: "David Wallace-Wells"
+book:
+  title: "Tales of Two Planets"
+  author: "John Freeman ed."
+  url: "https://www.penguinrandomhouse.com/books/599674/tales-of-two-planets-by-edited-by-john-freeman/"
 ---
