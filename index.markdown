@@ -18,6 +18,10 @@ The newsletter is delivered bi-weekly via email using a platform called Substack
 
 This table of contents lists the readings from each newsletter, but I'd highly recommend heading over to the newsletter itself (by clicking the title) where I've introduced each reading with context and a short summary.
 
+#### Broken Link?
+
+I've done my best to use long-term available links but URLs change over time. Please let me know if you run into any broken links so I can fix them! Barring that, you may be able to use [archive.org](https://archive.org/) to access the broken URL.
+
 ## Table of contents
 
 {% for issue in site.posts reversed %}
