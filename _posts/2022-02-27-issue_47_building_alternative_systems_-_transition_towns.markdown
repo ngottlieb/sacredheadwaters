@@ -6,7 +6,7 @@ source_url: "https://sacredheadwaters.substack.com/p/sacred-headwaters-47-buildi
 topics:
   - "transition towns"
   - "climate change"
-  - "alternative systems"
+  - "TINA"
 readings:
   - url: https://www.theguardian.com/sustainable-business/2015/jul/21/capitalism-alternatives-sustainable-development-failing
     title: "Sustainable development is failing but there are alternatives to capitalism"
