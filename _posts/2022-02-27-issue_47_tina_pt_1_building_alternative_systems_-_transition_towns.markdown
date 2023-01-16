@@ -1,5 +1,5 @@
 ---
-title: "Issue #47: Building Alternative Systems – Transition Towns"
+title: "Issue #47: TINA Pt 1 - Building Alternative Systems – Transition Towns"
 description: >-
   Transition Towns, a framework for building climate resilience through an emphasis on localization, has been incredibly successful. But is it fundamentally reformist or radical? Can it be both?
 source_url: "https://sacredheadwaters.substack.com/p/sacred-headwaters-47-building-alternative"
